@@ -12,11 +12,11 @@ Web
 Databases
 * SQL server, MySQL, PostgreSQL
 
-Movil
+Mobile
 * Android, Ionic Frameworks
 
 Others
-* Java, C, C++, Python, Docker, Git
+* Java, C, C++, Python, Docker, Git, Linux
 
 
 ## Contact
